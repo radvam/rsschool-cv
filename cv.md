@@ -24,3 +24,11 @@
 * Skills of using version control tools Git, Github
 * Basic knowledge of C++, PHP
 * Ability to understand someone else's code
+
+### CODE EXAMPLES
+Some examples of my self-education results you can see here - [GitHub](https://github.com/radvam)
+
+### EXPERIENCE
+* [HTML5/CSS3/JavaScript](https://htmlacademy.ru/profile/id877413/achievements)
+* [Javascript](https://learn.javascript.ru)
+* [Github](https://github.com/radvam)
