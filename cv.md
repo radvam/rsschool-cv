@@ -37,7 +37,7 @@ Some examples of my self-education results you can see here - [GitHub](https://g
 * *2019* 
   * Place of education: [*codecademy.com*](https://www.codecademy.com/users/dimrad/achievements)
   * Education Information: HTML5, CSS3
-  * Form of study: Online courses
+  * Form of study: online courses
 * *2018 - 2019* 
   * Place of education: [*learn.javascript.ru*](https://learn.javascript.ru)
   * Education Information: JavaScript
