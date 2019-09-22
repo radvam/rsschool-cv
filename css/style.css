@@ -80,3 +80,6 @@ article + article {
     margin-left: 20px;
 }
 
+article:last-child {
+    padding-bottom: 30px;
+}
