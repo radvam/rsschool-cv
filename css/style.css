@@ -68,3 +68,15 @@ article:nth-child(1) {
     padding-top: 20px;
 }
 
+article + article {
+    margin-top: 20px;
+} 
+
+.article_text ul {
+    margin-left: 50px;
+}
+
+.article_text li {
+    margin-left: 20px;
+}
+
